@@ -55,3 +55,4 @@ Demonstrates core AI and game theory concepts
 Language: Python
 
 Concepts: Minimax Algorithm, Heuristic Evaluation, Game Tree Search, Artificial Intelligence
+/<img width="342" height="328" alt="image" src="https://github.com/user-attachments/assets/c14df899-e14f-40bd-a361-113650ed293e" />
